@@ -1,0 +1,41 @@
+html,body{
+    height: 100%;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.nav-link{
+    font-size: 2rem;
+}
+
+.greeting{
+    font-size: 2rem;
+}
+
+.about_me{
+font-size: 2rem;
+}
+
+.container{
+    width: 75%;
+}
+
+.footer{
+    background:rgb(190, 143, 143);
+    font-size: 2rem;
+}
+.knowledge__text{
+    font-size: 1.5rem;
+}
+
+article>.container{
+    background:rgb(233, 222, 222);
+    font-size: 2em;
+    padding-bottom: auto;
+}
+
+section>.container{
+    background: rgb(135, 135, 190);
+}
